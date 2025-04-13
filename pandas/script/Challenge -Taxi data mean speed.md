@@ -1,0 +1,1 @@
+I'm asking you to calculate the mean speed in mph in taxi parquet to get the file taxi parquet, you will need to run the download data Python script in order to get it and you're going to use the pandas read parquet instead of read CSV to load the data.

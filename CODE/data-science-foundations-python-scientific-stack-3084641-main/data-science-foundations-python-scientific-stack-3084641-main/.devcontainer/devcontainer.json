@@ -1,0 +1,15 @@
+{
+    "build": {
+	"dockerfile": "Dockerfile",
+	"context": "..",
+	"args": { 
+	    "VARIANT": "3.10-bullseye",
+	    "NODE_VERSION": "lts/*"
+	}
+    },
+    "extensions": [
+	"GitHub.github-vscode-theme",
+	"ms-python.python"
+    ],
+    "onCreateCommand" : "echo PS1='\"$ \"' >> ~/.bashrc"
+}

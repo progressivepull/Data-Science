@@ -1,0 +1,1 @@
+Draw the panic track from track CSV. Sample the data to a minute interval and then markers should be blue. If the height is below 100 meters, otherwise red.
