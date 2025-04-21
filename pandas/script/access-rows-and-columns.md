@@ -29,4 +29,14 @@ And now, if you're going to use dot lock 0, **this is going to fail because ther
 
 I can also slice between A and D and pandas can handle it just as well. A side note, labels. **Don't have to be unique if there are repeating labels you will get all the rows with this label.** 
 
-Sometimes you'd like to access the 1st row regardless of the label. In this case you can use the iloc accessor, which works by position, so DF, iloc at location 0. And this is going to work and bring us. The first row. Another kind of index you can have is time based index. So let's change the data frame index which currently if we look at it is a range index and we are going to set it to the time. And have a look at it and now it is a daytime index with all of these. Values. Now, if you're going to run the lock zero, we're going to see that it's going to fail because we don't have any row that is labeled with zero. Now, however, I can access a row by time, and I can pass the time as a string and pandas is fine with it. You can even access time index with the time unit, so here we're going to access. Everything that is at 348 and we're going to get all the rows that fall in this minute. By the way, I'm not jogging at these crazy times. These times are in UTC and I'm at Israel, which means the time was actually 6:48 AM. Still early, but not that early.
+Sometimes you'd like to **access the 1st row regardless of the label**. In this case you can use the iloc accessor, which works by position, so DF, iloc at location 0. And this is going to work and bring us the first row. 
+
+Another kind of index you can have is time based index. 
+
+So let's change the data frame index which currently if we look at it is a range index and we are **going to set it to the time.** And have a look at it and now it is a daytime index with all of these values. 
+
+Now, if you're going to run the lock zero, we're going to see that it's going to **fail because we don't have any row that is labeled with zero.** 
+
+Now, however, I can access a row by time, and I can pass the time as a string and pandas is fine with it. You can even access time index with the time unit, so here we're going to access. **Everything that is at 3:48 and we're going to get all the rows that fall in this minute.**
+
+By the way, I'm not jogging at these crazy times. These times are in UTC and I'm at Israel, which means the time was actually 6:48 AM. Still early, but not that early.
