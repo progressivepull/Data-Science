@@ -18,6 +18,17 @@ We need to calculate the distance between every row. Remember we want to **avoid
 To avoid looping, here's an example so. **And creating a series of five elements**. So zero to four now. 
 
 
-If I'm going to run the shift operator, I'm going to get none is the first one, and every element is shifted downward. Shift can also work in the other direction. If I give it -1. So now I have none at the bottom and everyone is shifted up. Now we're going to use shift so we get the distance, we take the latitude and longitude. And the shifted latitude and longitude. And if you're going to run this one, we're going to get Nan again for the first value and then distances which are in kilometers. Let's do a side sheet reface, let's do a sanity check and sum all of the distances 4.7 kilometers. That seems about right. Now we'd like to calculate the difference in times. This one, we're going to use the diff. If. And if you're going to run it now, we're going to see again, not the time for the first one. And then the difference in times 17 seconds, 0 seconds. One second, etc. If you look at the stick, we can specify the length of the stick in various ways, right? We can use centimeters, millimeters, nanometers per socks and more. Same goes for time deltas. It's a span of time, and we need to convert it to a number by specifying the. So what we are going to do is time. Sorry, we're going to take times and divide it by pandas time delta saying one hour. And now we see the numbers as fractions of an hour. Finally, we can calculate the speed, so we do distance divided by times, hour and we are going to see the speed. Right. And this speed is in kilometers per hour and I'm not running 35 kilometers per hour. That's the speed of the fastest man alive. Probably this is an. In the measurement.
+If I'm going to run the shift operator, I'm going to get none is the first one, and every element is **shifted downward.** 
+
+Shift can also work in the other direction. **If I give it -1. So now I have none at the bottom** and everyone is shifted up. 
+
+Now we're going to use shift so we get the distance, we take the latitude and longitude and the **shifted latitude and longitude.** And if you're going to run this one, we're going to get Nan again for the first value and then distances which are in kilometers. 
+
+Let's do a sanity check and **sum all of the distances 4.7 kilometers.** That seems about right. 
+
+Now we'd like to **calculate the difference in times.** This one, we're going to use the diff. If you're going to run it now, we're going to see again, not the time for the first one. And then the **difference in times 17 seconds, 0 seconds, 1 second, etc.** 
+
+
+If you look at the stick, we can specify the length of the stick in various ways, right? We can use centimeters, millimeters, nanometers per socks and more. Same goes for time deltas. It's a span of time, and we need to convert it to a number by specifying the. So what we are going to do is time. Sorry, we're going to take times and divide it by pandas time delta saying one hour. And now we see the numbers as fractions of an hour. Finally, we can calculate the speed, so we do distance divided by times, hour and we are going to see the speed. Right. And this speed is in kilometers per hour and I'm not running 35 kilometers per hour. That's the speed of the fastest man alive. Probably this is an. In the measurement.
 
 
