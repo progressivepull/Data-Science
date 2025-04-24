@@ -29,6 +29,9 @@ Let's do a sanity check and **sum all of the distances 4.7 kilometers.** That se
 Now we'd like to **calculate the difference in times.** This one, we're going to use the diff. If you're going to run it now, we're going to see again, not the time for the first one. And then the **difference in times 17 seconds, 0 seconds, 1 second, etc.** 
 
 
-If you look at the stick, we can specify the length of the stick in various ways, right? We can use centimeters, millimeters, nanometers per socks and more. Same goes for time deltas. It's a span of time, and we need to convert it to a number by specifying the. So what we are going to do is time. Sorry, we're going to take times and divide it by pandas time delta saying one hour. And now we see the numbers as fractions of an hour. Finally, we can calculate the speed, so we do distance divided by times, hour and we are going to see the speed. Right. And this speed is in kilometers per hour and I'm not running 35 kilometers per hour. That's the speed of the fastest man alive. Probably this is an. In the measurement.
+If you look at the stick, we can specify the length of the stick in various ways, right? We can use centimeters, millimeters, nanometers per socks and more. Same goes for time deltas. It's a span of time, and we need to convert it to **a number by specifying the unit.** 
 
+So what we are going to do is time. We're going to take times and divide it by pandas time delta saying one hour. **And now we see the numbers as fractions of an hour.**
+
+Finally, we can calculate the speed, so we do distance divided by times, hour and we are going to see the speed. This speed is in kilometers per hour. 
 
