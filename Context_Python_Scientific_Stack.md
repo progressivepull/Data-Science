@@ -1,3 +1,27 @@
+# Python Scientific Stack
+# Code 
+## 2 NumPy Basics
+### Ch02/02_01 NumPy Overview 
+main > Ch01 > 01_01 > code_cells.py
+
+### Ch02/02_02 NumPy array
+main > Ch02 > 02_02 > array.py
+
+### Ch02/02_03 Slicing
+main > Ch02 > 02_03> slicing.py
+
+### Ch02/04 Learn Boolean Indexing
+main > Ch02 > 02_04> boolean_indexing.py
+
+### CH02/05_Understand_Broadcasting
+main > Ch02 > 02_05> broadcasting.py
+
+### CH02/06_Understand_Array_Operations
+main > Ch02 > 02_06> operation.py
+
+## CH02/07_Understand_ufuncs
+main > Ch02 > 02_07> 
+
 # Context
 ## Introduction
 * [The Python Scientific Stack](./introduction/the-python-scientific-stack.md)
@@ -8,9 +32,9 @@
 *
 
 ## NumPy Basics
-* [CH02/01 NumPy Overview](./numpy-basics/CH02_01_NumPy_Overview.ipynb)
-* [Ch02/02 NumPy Arrays](./numpy-basics/Ch02_02_NumPy_Arrays.ipynb)
-* [Ch02/03 Slicing](./numpy-basics/Ch02_03_Slicing.ipynb)
+* [CH02/01 NumPy Overview](./numpy-basics/CH02_01_NumPy_Overview.ipynb) 
+* [Ch02/02 NumPy Arrays](./numpy-basics/Ch02_02_NumPy_Arrays.ipynb) 
+* [Ch02/03 Slicing](./numpy-basics/Ch02_03_Slicing.ipynb) 
 * [Ch02/04 Learn Boolean Indexing](./numpy-basics/Ch02_04_Learn_Boolean_Indexing.ipynb)
 * [CH02/05_Understand_Broadcasting](./numpy-basics/CH02_05_Understand_Broadcasting.ipynb)
 * [CH02/06_Understand_Array_Operations](./numpy-basics/CH02_06_Understand_Array_Operations.ipynb)
