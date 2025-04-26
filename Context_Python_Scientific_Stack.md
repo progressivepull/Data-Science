@@ -38,6 +38,9 @@ main > Ch03 > 02_04 > access.py
 ### CH3/05 Calculate distance
 main > Ch03 > 02_05 > speed.py
 
+### CH3/06 Display speed box plot
+main > Ch03 > 02_06 > box_ploy.py
+
 # Context
 ## 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
@@ -76,10 +79,8 @@ main > Ch03 > 02_05 > speed.py
 * [CH3/05 Calculate distance](./Python_Scientific_Stack/pandas/03_05_Calculate_distance.ipynb)
 
 
-Display speed box plot(Viewed)
-2m 8s video
-Save
-•	
+Display speed box plot
+
 Challenge: Taxi data mean speed(Viewed)
 22s video
 Save
