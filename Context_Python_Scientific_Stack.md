@@ -32,20 +32,20 @@ main > Ch02 > 02_07> ufuncs.py
 *
 
 ## 2 NumPy Basics
-* [CH02/01 NumPy Overview](./numpy-basics/CH02_01_NumPy_Overview.ipynb) 
-* [Ch02/02 NumPy Arrays](./numpy-basics/Ch02_02_NumPy_Arrays.ipynb) 
-* [Ch02/03 Slicing](./numpy-basics/Ch02_03_Slicing.ipynb) 
-* [Ch02/04 Learn Boolean Indexing](./numpy-basics/Ch02_04_Learn_Boolean_Indexing.ipynb)
-* [CH02/05_Understand_Broadcasting](./numpy-basics/CH02_05_Understand_Broadcasting.ipynb)
-* [CH02/06_Understand_Array_Operations](./numpy-basics/CH02_06_Understand_Array_Operations.ipynb)
-* [CH02/07_Understand_ufuncs](./numpy-basics/CH02_07_Understand_ufuncs.ipynb)
+* [CH02/01 NumPy Overview](./Python_Scientific_Stack/numpy-basics/CH02_01_NumPy_Overview.ipynb) 
+* [Ch02/02 NumPy Arrays](./Python_Scientific_Stack/numpy-basics/Ch02_02_NumPy_Arrays.ipynb) 
+* [Ch02/03 Slicing](./Python_Scientific_Stack/numpy-basics/Ch02_03_Slicing.ipynb) 
+* [Ch02/04 Learn Boolean Indexing](./Python_Scientific_Stack/numpy-basics/Ch02_04_Learn_Boolean_Indexing.ipynb)
+* [CH02/05_Understand_Broadcasting](./Python_Scientific_Stack/numpy-basics/CH02_05_Understand_Broadcasting.ipynb)
+* [CH02/06_Understand_Array_Operations](./Python_Scientific_Stack/numpy-basics/CH02_06_Understand_Array_Operations.ipynb)
+* [CH02/07_Understand_ufuncs](./Python_Scientific_Stack/numpy-basics/CH02_07_Understand_ufuncs.ipynb)
 ### Practice
-* [Slice](./numpy-basics/practice/slice.ipynb) 
+* [Slice](./Python_Scientific_Stack/numpy-basics/practice/slice.ipynb) 
 
 
 ## 3 pandas
 * CH3/01 pandas overview       
-* [CH3/02 Loading CSV files](./pandas/CH03_02_Loading_CSV_Files.ipynb)      
+* [CH3/02 Loading CSV files](./Python_Scientific_Stack/pandas/CH03_02_Loading_CSV_Files.ipynb)      
 * CH3/04 Parse time      
 *  Access rows and columns(Viewed)
 4m 14s video
