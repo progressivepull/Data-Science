@@ -20,7 +20,7 @@ main > Ch02 > 02_05> broadcasting.py
 main > Ch02 > 02_06> operation.py
 
 ## CH02/07_Understand_ufuncs
-main > Ch02 > 02_07> 
+main > Ch02 > 02_07> ufuncs.py
 
 # Context
 ## Introduction
