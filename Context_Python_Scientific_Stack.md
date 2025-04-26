@@ -5,7 +5,7 @@
 # Code 
 ## 2 NumPy Basics
 ### Ch02/02_01 NumPy Overview 
-main > Ch01 > 01_01 > code_cells.py
+main > Ch02 > 01_01 > code_cells.py
 
 ### Ch02/02_02 NumPy array
 main > Ch02 > 02_02 > array.py
@@ -24,6 +24,19 @@ main > Ch02 > 02_06> operation.py
 
 ## CH02/07_Understand_ufuncs
 main > Ch02 > 02_07> ufuncs.py
+
+## 3 Pandas
+### CH3/02 Loading CSV files 
+main > Ch03 > 02_02 > load.py
+
+### CH03/03 Parse Time 
+main > Ch03 > 02_03 > parse_time.py
+
+### CH3/04 Access rows and columns
+main > Ch03 > 02_04 > access.py
+
+### CH3/05 Calculate distance
+main > Ch03 > 02_05 > speed.py
 
 # Context
 ## 0 Introduction
@@ -47,17 +60,22 @@ main > Ch02 > 02_07> ufuncs.py
 
 
 ## 3 pandas
+### FILES
+* [track](./Python_Scientific_Stack/pandas/track.csv) 
+  
+### TUTORIAL
+* [Calculates_the_hypotenuse](./Python_Scientific_Stack/pandas/Calculates_the_hypotenuse.ipynb) 
+* [Pandas_Series_shift](./Python_Scientific_Stack/pandas/Pandas_Series_shift.ipynb) 
+* [Pandas_Series](./Python_Scientific_Stack/pandas/Pandas_Series.ipynb) 
+
+### CHAPTER
 * CH3/01 pandas overview       
-* [CH3/02 Loading CSV files](./Python_Scientific_Stack/pandas/CH03_02_Loading_CSV_Files.ipynb)      
-* CH3/04 Parse time      
-*  Access rows and columns(Viewed)
-4m 14s video
-Save
-•	
-Calculate distance(Viewed)
-3m 20s video
-Save
-•	
+* [CH3/02 Loading CSV files](./Python_Scientific_Stack/pandas/CH03_02_Loading_CSV_Files.ipynb)        
+* [CH3/03 Parse time](./Python_Scientific_Stack/pandas/CH03_03_Parse_Time.ipynb)       
+* [CH3/04 Access rows and columns](./Python_Scientific_Stack/pandas/03_04_Access_rows_and_columns.ipynb)     
+* [CH3/05 Calculate distance](./Python_Scientific_Stack/pandas/03_05_Calculate_distance.ipynb)
+
+
 Display speed box plot(Viewed)
 2m 8s video
 Save
