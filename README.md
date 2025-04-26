@@ -1,8 +1,5 @@
 # Data-Science
-[Data Science Foundations Python](./Data-Science-Foundations-Python/context.md)
 
-# NumPy
-column, row
 
 # References
 * [GitHub](https://github.com/LinkedInLearning/data-science-foundations-python-scientific-stack-3084641)    
