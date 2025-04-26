@@ -1,5 +1,9 @@
 # Data-Science
 
+Open Jupyter from the command line.
+```
+jupyter notebook --notebook-dir=D:/
+```
 
 # References
 * [Python_Scientific_Stack- GitHub](https://github.com/LinkedInLearning/data-science-foundations-python-scientific-stack-3084641)    
