@@ -24,9 +24,9 @@ main > Ch02 > 02_07> ufuncs.py
 
 # Context
 ## 0 Introduction
-* [The Python Scientific Stack](./introduction/the-python-scientific-stack.md)
-* [What you should know](./introduction/what-you-should-know.md)
-* [Using GitHub Codespaces with this course](./introduction/using-gitHub-codespaces-with-this-course.md)
+* [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
+* [What you should know](./Python_Scientific_Stack/introduction/what-you-should-know.md)
+* [Using GitHub Codespaces with this course](./Python_Scientific_Stack/introduction/using-gitHub-codespaces-with-this-course.md)
 
 ## 1 Visual Studio Code
 *
