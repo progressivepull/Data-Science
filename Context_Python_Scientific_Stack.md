@@ -23,15 +23,15 @@ main > Ch02 > 02_06> operation.py
 main > Ch02 > 02_07> ufuncs.py
 
 # Context
-## Introduction
+## 0 Introduction
 * [The Python Scientific Stack](./introduction/the-python-scientific-stack.md)
 * [What you should know](./introduction/what-you-should-know.md)
 * [Using GitHub Codespaces with this course](./introduction/using-gitHub-codespaces-with-this-course.md)
 
-## Visual Studio Code
+## 1 Visual Studio Code
 *
 
-## NumPy Basics
+## 2 NumPy Basics
 * [CH02/01 NumPy Overview](./numpy-basics/CH02_01_NumPy_Overview.ipynb) 
 * [Ch02/02 NumPy Arrays](./numpy-basics/Ch02_02_NumPy_Arrays.ipynb) 
 * [Ch02/03 Slicing](./numpy-basics/Ch02_03_Slicing.ipynb) 
@@ -43,21 +43,11 @@ main > Ch02 > 02_07> ufuncs.py
 * [Slice](./numpy-basics/practice/slice.ipynb) 
 
 
-1. pandas
-•	
-pandas overview(Viewed)
-1m 19s video
-Save
-•	
-Loading CSV files(Viewed)
-3m 12s video
-Save
-•	
-Parse time(Viewed)
-1m 47s video
-Save
-•	
-Access rows and columns(Viewed)
+## 3 pandas
+* CH3/01 pandas overview       
+* [CH3/02 Loading CSV files](./pandas/CH03_02_Loading_CSV_Files.ipynb)      
+* CH3/04 Parse time      
+*  Access rows and columns(Viewed)
 4m 14s video
 Save
 •	
