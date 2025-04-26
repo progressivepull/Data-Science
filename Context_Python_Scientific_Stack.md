@@ -1,4 +1,7 @@
 # Python Scientific Stack
+[Context_Python_Scientific_Stack](./../../Context_Python_Scientific_Stack.md)
+
+
 # Code 
 ## 2 NumPy Basics
 ### Ch02/02_01 NumPy Overview 
