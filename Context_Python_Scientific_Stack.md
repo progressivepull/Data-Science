@@ -1,6 +1,7 @@
 # Python Scientific Stack
 [Context_Python_Scientific_Stack](./../../Context_Python_Scientific_Stack.md)
 
+insert the following code into this python script that explains the code
 
 # Code 
 ## 2 NumPy Basics
