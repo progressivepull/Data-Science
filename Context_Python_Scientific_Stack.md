@@ -1,6 +1,7 @@
 # Python Scientific Stack
 [Context_Python_Scientific_Stack](./../../Context_Python_Scientific_Stack.md)
 
+## NOTES:
 insert the following code into this python script that explains the code
 
 # Code 
@@ -71,6 +72,7 @@ main > Ch03 > 02_06 > box_ploy.py
 * [Calculates_the_hypotenuse](./Python_Scientific_Stack/pandas/Calculates_the_hypotenuse.ipynb) 
 * [Pandas_Series_shift](./Python_Scientific_Stack/pandas/Pandas_Series_shift.ipynb) 
 * [Pandas_Series](./Python_Scientific_Stack/pandas/Pandas_Series.ipynb) 
+* [statistical_measures](./Python_Scientific_Stack/pandas/statistical_measures.ipynb) 
 
 ### CHAPTER
 * CH3/01 pandas overview       
