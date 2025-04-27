@@ -43,6 +43,16 @@ main > Ch03 > 02_05 > speed.py
 ### CH3/06 Display speed box plot
 main > Ch03 > 02_06 > box_ploy.py
 
+### CH3/07 Challenge: Taxi data mean speed
+main > Ch03 > challenge > download_data.py
+main > Ch03 > challenge > mean_speed.py
+
+### CH3/07 Challenge: Taxi data mean speed
+main > Ch03 > solution > download_data.py
+main > Ch03 > solution > mean_speed.py
+
+## 4 Folium and Geospatial Data
+
 # Context
 ## 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
@@ -80,23 +90,12 @@ main > Ch03 > 02_06 > box_ploy.py
 * [CH3/03 Parse time](./Python_Scientific_Stack/pandas/CH03_03_Parse_Time.ipynb)       
 * [CH3/04 Access rows and columns](./Python_Scientific_Stack/pandas/03_04_Access_rows_and_columns.ipynb)     
 * [CH3/05 Calculate distance](./Python_Scientific_Stack/pandas/03_05_Calculate_distance.ipynb)
+* [CH3/06 Display speed box plot](./Python_Scientific_Stack/pandas/CH3_06_Display_speed_box_plot.ipynb)
+* CH3/07 Challenge: Taxi data mean speed
+* Solution: Taxi data mean speed
 
-
-Display speed box plot
-
-Challenge: Taxi data mean speed(Viewed)
-22s video
-Save
-•	
-Solution: Taxi data mean speed(Viewed)
-58s video
-Save
-•	
-Chapter Quiz(In progress)
-5 questions
-
-1. Folium and Geospatial Data
-•	
+### 4 Folium and Geospatial Data
+	
 Create an initial map(Viewed)
 1m 29s video
 Save
