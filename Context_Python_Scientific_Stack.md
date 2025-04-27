@@ -47,7 +47,9 @@ main > Ch03 > 02_06 > box_ploy.py
 main > Ch03 > challenge > download_data.py
 main > Ch03 > challenge > mean_speed.py
 
-### CH3/07 Challenge: Taxi data mean speed
+### CH3/08 Challenge: Taxi data mean speed
+
+### CH3/09 Solution: Taxi data mean speed
 main > Ch03 > solution > download_data.py
 main > Ch03 > solution > mean_speed.py
 
@@ -92,7 +94,9 @@ main > Ch03 > solution > mean_speed.py
 * [CH3/05 Calculate distance](./Python_Scientific_Stack/pandas/03_05_Calculate_distance.ipynb)
 * [CH3/06 Display speed box plot](./Python_Scientific_Stack/pandas/CH3_06_Display_speed_box_plot.ipynb)
 * CH3/07 Challenge: Taxi data mean speed
-* Solution: Taxi data mean speed
+* [CH3/09 Solution: Taxi data mean speed](./Python_Scientific_Stack/pandas/CH3_09_Solution_Taxi_data_mean_speed.ipynb)
+
+
 
 ### 4 Folium and Geospatial Data
 	
