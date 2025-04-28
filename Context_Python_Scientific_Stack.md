@@ -62,6 +62,32 @@ main > Ch04 > 04_01 > map.py
 
 ### CH5/01 NYC Taxi Data
 
+### 6 scikit-learn
+### CH6/01 scikit-learn introduction
+main > Ch06 > 06_01 > first_look.py
+main > Ch06 > 06_01 > download_data.py
+
+### CH6/02 Linear regression   
+main > Ch06 > 06_02 > regression.py
+
+### CH6/03 Understand train/test split 
+main > Ch06 > 06_03 > split.py
+
+### CH6/04 Preprocess data
+main > Ch06 > 06_04 > preprocess.py
+
+### CH6/05 Compose pipelines	
+main > Ch06 > 06_05 > pipe.py
+
+### CH6/06 Save and load models	 
+main > Ch06 > 06_0 > .py
+
+### CH6/07 Challenge: Handwritten digits  
+main > Ch06 > 06_0 > .py
+
+### CH6/08 Solution: Handwritten digits	
+main > Ch06 > 06_0 > .py
+
 # Context
 ## 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
@@ -128,10 +154,12 @@ main > Ch04 > 04_01 > map.py
 
 ### 6 scikit-learn
 * scikit-learn introduction	   
-* Linear regression   	
+* Linear regression
+  - [7.1. Toy datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html) 
 * Understand train/test split  
 * Preprocess data	  
-* Compose pipelines	   
+* Compose pipelines
+ - [6.1. Pipelines and composite estimators](https://scikit-learn.org/stable/modules/compose.html)	   
 * Save and load models	    
 * Challenge: Handwritten digits    
 * Solution: Handwritten digits	   
