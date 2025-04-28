@@ -100,10 +100,9 @@ main > Ch03 > solution > mean_speed.py
 
 ### 4 Folium and Geospatial Data
 	
-Create an initial map(Viewed)
-1m 29s video
-Save
-•	
+* Create an initial map
+  - [Folium](https://python-visualization.github.io/folium/latest/)
+	
 Draw a track on map(Viewed)
 2m 56s video
 Save
