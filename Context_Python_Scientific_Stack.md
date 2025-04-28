@@ -220,16 +220,13 @@ main > Ch08 > 08_06 > images.py
 * CH3/07 Challenge: Taxi data mean speed
 * [CH3/09 Solution: Taxi data mean speed](./Python_Scientific_Stack/pandas/CH3_09_Solution_Taxi_data_mean_speed.ipynb)
 
-
-
 ### 4 Folium and Geospatial Data
 	
 * [CH3/02 Loading CSV files](./Python_Scientific_Stack/folium-and-geospatial-data/CH04_01_Create_an_initial_map.ipynb) 
   - [Folium](https://python-visualization.github.io/folium/latest/)
   - [Leaflet](https://leafletjs.com/)
   - [Open Street Map](https://www.openstreetmap.org/)   
-	
-* Draw a track on map
+* [CH3/02_Draw_a_track_on_map](./Python_Scientific_Stack/folium-and-geospatial-data/CH3_02_Draw_a_track_on_map.ipynb)
 * Using geospatial data with shapely	
 * Challenge: Draw the running track
 * Solution: Draw the running track
