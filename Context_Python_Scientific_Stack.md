@@ -44,14 +44,14 @@ main > Ch03 > 02_05 > speed.py
 main > Ch03 > 02_06 > box_ploy.py
 
 ### CH3/07 Challenge: Taxi data mean speed
-main > Ch03 > challenge > download_data.py
-main > Ch03 > challenge > mean_speed.py
+main > Ch03 > challenge > download_data.py    
+main > Ch03 > challenge > mean_speed.py    
 
 ### CH3/08 Challenge: Taxi data mean speed
 
 ### CH3/09 Solution: Taxi data mean speed
-main > Ch03 > solution > download_data.py
-main > Ch03 > solution > mean_speed.py
+main > Ch03 > solution > download_data.py    
+main > Ch03 > solution > mean_speed.py      
 
 ## 4 Folium and Geospatial Data
 
@@ -61,42 +61,42 @@ main > Ch04 > 04_01 > map.py
 ## 5 NYC Taxi Data
 
 ### CH5/01 NYC Examine data
-main > Ch05 > 05_01 > first_look.py
-main > Ch05 > 05_01 > download_data.py
+main > Ch05 > 05_01 > first_look.py     
+main > Ch05 > 05_01 > download_data.py      
 
 ### CH5/02 Load data from CSV files
-main > Ch05 > 05_02 > load.py
-main > Ch05 > 05_02 > download_data.py
+main > Ch05 > 05_02 > load.py     
+main > Ch05 > 05_02 > download_data.py     
 
 ### CH5/03 Working with categorical data   
-main > Ch05 > 05_03 > categorical.py
-main > Ch05 > 05_03 > download_data.py
+main > Ch05 > 05_03 > categorical.py   
+main > Ch05 > 05_03 > download_data.py      
 
 ### CH5/04 Work with data: Hourly trip rides   
-main > Ch05 > 05_04 > daily.py
-main > Ch05 > 05_04 > download_data.py
+main > Ch05 > 05_04 > daily.py     
+main > Ch05 > 05_04 > download_data.py       
 
 ### CH5/05 Work with data: Rides per hour   
-main > Ch05 > 05_05 > hourly.py
-main > Ch05 > 05_05 > download_data.py 
+main > Ch05 > 05_05 > hourly.py    
+main > Ch05 > 05_05 > download_data.py     
 
 ### CH5/06 Work with data: Weather data   
-main > Ch05 > 05_06 > weather.py
-main > Ch05 > 05_06 > download_data.py 
-main > Ch05 > 05_06 > download_weather.py 
+main > Ch05 > 05_06 > weather.py    
+main > Ch05 > 05_06 > download_data.py        
+main > Ch05 > 05_06 > download_weather.py     
 
 ### CH5/07 Challenge: Graphing taxi data  
 main > Ch05 > challenge > tip.py
 main > Ch05 > challenge > download_date.py
 
 ### CH5/08 Solution: Graphing taxi data  
-main > Ch05 > solution > tip.py
-main > Ch05 > solution > download_date.py 
+main > Ch05 > solution > tip.py     
+main > Ch05 > solution > download_date.py      
 
 ## 6 scikit-learn
 ### CH6/01 scikit-learn introduction
-main > Ch06 > 06_01 > first_look.py
-main > Ch06 > 06_01 > download_data.py
+main > Ch06 > 06_01 > first_look.py     
+main > Ch06 > 06_01 > download_data.py    
 
 ### CH6/02 Linear regression   
 main > Ch06 > 06_02 > regression.py
@@ -129,12 +129,12 @@ main > Ch07 > 07_02 > style.py
 main > Ch07 > 07_03 > pd_style.py 
 
 ### CH7/04 Plotting with pandas	
-main > Ch07 > 07_04 > pd_plot.py 
-main > Ch07 > 07_04 > download_data.py 
+main > Ch07 > 07_04 > pd_plot.py      
+main > Ch07 > 07_04 > download_data.py     
 
 ### CH7/05 Use Matplotlib with pandas	
-main > Ch07 > 07_05 > pd_mpl.py 
-main > Ch07 > 07_05 > download_data.py
+main > Ch07 > 07_05 > pd_mpl.py     
+main > Ch07 > 07_05 > download_data.py    
 
 ### CH7/06  Tips and tricks
 main > Ch07 > 07_06 > interactive.py 
@@ -143,12 +143,12 @@ main > Ch07 > 07_06 > interactive.py
 main > Ch07 > 07_07 > other.py 
 
 ### CH7/08 Challenge: Stock data bar charts	
-main > Ch07 > challenge > montly_close.py 
-main > Ch07 > challenge > download_data.py 
+main > Ch07 > challenge > montly_close.py     
+main > Ch07 > challenge > download_data.py      
 
 ### CH7/09 Solution: Stock data bar charts   
-main > Ch07 > solution >  montly_close.py
-main > Ch07 > solution >  download_data.py
+main > Ch07 > solution >  montly_close.py    
+main > Ch07 > solution >  download_data.py    
 
 ### 8 Other Packages
 ### CH8/01  Other packages overview  
