@@ -120,36 +120,33 @@ main > Ch07 > solution >  montly_close.py
 main > Ch07 > solution >  download_data.py
 
 ### 8 Other Packages
-### CH8/0  Other packages overview  
-main > Ch08 > 08_0 > .py 
+### CH8/01  Other packages overview  
 
-### CH8/0 Go faster with Numba	
-main > Ch08 > 08_0 > .py 
+### CH8/02 Go faster with Numba	
+main > Ch08 > 08_02 > polysum.py 
 
-### CH8/0 Understand deep learning   
-main > Ch08 > 08_0 > .py
+### CH8/03 Understand deep learning   
+main > Ch08 > 08_03 > digits.py
 
-### CH8/0 Work with image processing   
-main > Ch08 > 08_0 > .py   
+### CH8/04 Work with image processing   
+main > Ch08 > 08_04 > images.py   
 
-### CH8/0 Understand NLP: NLTK	   
-### CH8/0 Working with bigger data   	
+### CH8/05 Understand NLP: NLTK	
+main > Ch08 > 08_05 > images.py  
+
+### CH8/06 Working with bigger data
+main > Ch08 > 08_06 > images.py  
 
 ### 9 Development Process
-### CH9/0 Development process overview	
-main > Ch09 > 09_0 > .py
+### CH9/01 Development process overview	
 
-### CH9/0 Understand source control
-main > Ch09 > 09_0 > .py
+### CH9/02 Understand source control
 
-### CH9/0 Learn code review  
-main > Ch09 > 09_0 > .py
+### CH9/03 Learn code review  
 
-### CH9/0 Testing overview   	
-main > Ch09 > 09_0 > .py 
+### CH9/04 Testing overview   	
 
-### CH9/0 Testing example  
-main > Ch09 > 09_0 > .py   
+### CH9/05 Testing example  
 
 # Context
 ## 0 Introduction
