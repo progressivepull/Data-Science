@@ -86,8 +86,8 @@ main > Ch05 > 05_06 > download_data.py
 main > Ch05 > 05_06 > download_weather.py     
 
 ### CH5/07 Challenge: Graphing taxi data  
-main > Ch05 > challenge > tip.py
-main > Ch05 > challenge > download_date.py
+main > Ch05 > challenge > tip.py         
+main > Ch05 > challenge > download_date.py           
 
 ### CH5/08 Solution: Graphing taxi data  
 main > Ch05 > solution > tip.py     
