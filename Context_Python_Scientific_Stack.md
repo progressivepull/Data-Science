@@ -103,7 +103,7 @@ main > Ch04 > 04_01 > map.py
 
 ### 4 Folium and Geospatial Data
 	
-* Create an initial map
+* [CH3/02 Loading CSV files](./Python_Scientific_Stack/folium-and-geospatial-data/CH04_01_Create_an_initial_map.ipynb) 
   - [Folium](https://python-visualization.github.io/folium/latest/)
   - [Leaflet](https://leafletjs.com/)
   - [Open Street Map](https://www.openstreetmap.org/)   
