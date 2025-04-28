@@ -55,6 +55,9 @@ main > Ch03 > solution > mean_speed.py
 
 ## 4 Folium and Geospatial Data
 
+### CH4/01 Create an initial map
+main > Ch04 > 04_01 > map.py
+
 # Context
 ## 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
@@ -102,6 +105,8 @@ main > Ch03 > solution > mean_speed.py
 	
 * Create an initial map
   - [Folium](https://python-visualization.github.io/folium/latest/)
+  - [Leaflet](https://leafletjs.com/)
+  - [Open Street Map](https://www.openstreetmap.org/)   
 	
 Draw a track on map(Viewed)
 2m 56s video
