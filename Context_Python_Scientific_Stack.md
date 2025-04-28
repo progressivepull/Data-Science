@@ -80,13 +80,13 @@ main > Ch06 > 06_04 > preprocess.py
 main > Ch06 > 06_05 > pipe.py
 
 ### CH6/06 Save and load models	 
-main > Ch06 > 06_0 > .py
+main > Ch06 > 06_06 > save.py
 
 ### CH6/07 Challenge: Handwritten digits  
-main > Ch06 > 06_0 > .py
+main > Ch06 > challenge > digits.py
 
 ### CH6/08 Solution: Handwritten digits	
-main > Ch06 > 06_0 > .py
+main > Ch06 > solution > digits.py
 
 # Context
 ## 0 Introduction
@@ -160,7 +160,8 @@ main > Ch06 > 06_0 > .py
 * Preprocess data	  
 * Compose pipelines
  - [6.1. Pipelines and composite estimators](https://scikit-learn.org/stable/modules/compose.html)	   
-* Save and load models	    
+* Save and load models
+  - [pickle — Python object serialization](https://docs.python.org/3/library/pickle.html) 
 * Challenge: Handwritten digits    
 * Solution: Handwritten digits	   
 
