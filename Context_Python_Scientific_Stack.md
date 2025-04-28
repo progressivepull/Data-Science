@@ -88,6 +88,69 @@ main > Ch06 > challenge > digits.py
 ### CH6/08 Solution: Handwritten digits	
 main > Ch06 > solution > digits.py
 
+### 7 Plotting
+### CH7/01 Overview of matplotlib
+
+### CH7/02 Use styles	 
+main > Ch07 > 07_02 > style.py 
+
+### CH7/03 Customize pandas output
+main > Ch07 > 07_03 > pd_style.py 
+
+### CH7/04 Plotting with pandas	
+main > Ch07 > 07_04 > pd_plot.py 
+main > Ch07 > 07_04 > download_data.py 
+
+### CH7/05 Use Matplotlib with pandas	
+main > Ch07 > 07_05 > pd_mpl.py 
+main > Ch07 > 07_05 > download_data.py
+
+### CH7/06  Tips and tricks
+main > Ch07 > 07_06 > interactive.py 
+
+### CH7/07 Other plotting packages   
+main > Ch07 > 07_07 > other.py 
+
+### CH7/08 Challenge: Stock data bar charts	
+main > Ch07 > challenge > montly_close.py 
+main > Ch07 > challenge > download_data.py 
+
+### CH7/09 Solution: Stock data bar charts   
+main > Ch07 > solution >  montly_close.py
+main > Ch07 > solution >  download_data.py
+
+### 8 Other Packages
+### CH8/0  Other packages overview  
+main > Ch08 > 08_0 > .py 
+
+### CH8/0 Go faster with Numba	
+main > Ch08 > 08_0 > .py 
+
+### CH8/0 Understand deep learning   
+main > Ch08 > 08_0 > .py
+
+### CH8/0 Work with image processing   
+main > Ch08 > 08_0 > .py   
+
+### CH8/0 Understand NLP: NLTK	   
+### CH8/0 Working with bigger data   	
+
+### 9 Development Process
+### CH9/0 Development process overview	
+main > Ch09 > 09_0 > .py
+
+### CH9/0 Understand source control
+main > Ch09 > 09_0 > .py
+
+### CH9/0 Learn code review  
+main > Ch09 > 09_0 > .py
+
+### CH9/0 Testing overview   	
+main > Ch09 > 09_0 > .py 
+
+### CH9/0 Testing example  
+main > Ch09 > 09_0 > .py   
+
 # Context
 ## 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
