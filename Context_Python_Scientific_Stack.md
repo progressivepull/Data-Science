@@ -60,32 +60,38 @@ main > Ch04 > 04_01 > map.py
 
 ## 5 NYC Taxi Data
 
-### CH5/01 NYC Taxi Data
-main > Ch05 > 05_01 > .py
+### CH5/01 NYC Examine data
+main > Ch05 > 05_01 > first_look.py
+main > Ch05 > 05_01 > download_data.py
 
-### CH5/02 Examine data
-main > Ch05 > 05_02 > .py
+### CH5/02 Load data from CSV files
+main > Ch05 > 05_02 > load.py
+main > Ch05 > 05_02 > download_data.py
 
-### CH5/03 Load data from CSV files  
-main > Ch05 > 05_03 > .py
+### CH5/03 Working with categorical data   
+main > Ch05 > 05_03 > categorical.py
+main > Ch05 > 05_03 > download_data.py
 
-### CH5/04 Working with categorical data   
-main > Ch05 > 05_04 > .py
+### CH5/04 Work with data: Hourly trip rides   
+main > Ch05 > 05_04 > daily.py
+main > Ch05 > 05_04 > download_data.py
 
-### CH5/05 Work with data: Hourly trip rides  
-main > Ch05 > 05_05 > .py
+### CH5/05 Work with data: Rides per hour   
+main > Ch05 > 05_05 > hourly.py
+main > Ch05 > 05_05 > download_data.py 
 
-### CH5/06 Work with data: Rides per hour  
-main > Ch05 > 05_06 > .py
+### CH5/06 Work with data: Weather data   
+main > Ch05 > 05_06 > weather.py
+main > Ch05 > 05_06 > download_data.py 
+main > Ch05 > 05_06 > download_weather.py 
 
-### CH5/07 Work with data: Weather data  
-main > Ch05 > 05_07 > .py
+### CH5/07 Challenge: Graphing taxi data  
+main > Ch05 > challenge > tip.py
+main > Ch05 > challenge > download_date.py
 
-### CH5/08 Challenge: Graphing taxi data 
-main > Ch05 > 05_08 > .py
-
-### CH5/09 Solution: Graphing taxi data 
-main > Ch05 > 05_09 > .py
+### CH5/08 Solution: Graphing taxi data  
+main > Ch05 > solution > tip.py
+main > Ch05 > solution > download_date.py 
 
 ## 6 scikit-learn
 ### CH6/01 scikit-learn introduction
