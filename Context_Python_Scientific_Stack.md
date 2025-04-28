@@ -166,7 +166,10 @@ main > Ch06 > solution > digits.py
 * Solution: Handwritten digits	   
 
 ### 7 Plotting
-* Overview of matplotlib	   
+* Overview of matplotlib
+  - [In Learning - gscQnU7S](https://lnked.in/gscQnU7S)
+  - [Chart visualization]([https://lnked.in/gscQnU7S](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+  - [matplotlib](https://matplotlib.org/)	
 * Use styles	  
 * Customize pandas output	  
 * Plotting with pandas	   
