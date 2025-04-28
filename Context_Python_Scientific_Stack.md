@@ -58,6 +58,8 @@ main > Ch03 > solution > mean_speed.py
 ### CH4/01 Create an initial map
 main > Ch04 > 04_01 > map.py
 
+## 5 NYC Taxi Data
+
 # Context
 ## 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
@@ -108,27 +110,12 @@ main > Ch04 > 04_01 > map.py
   - [Leaflet](https://leafletjs.com/)
   - [Open Street Map](https://www.openstreetmap.org/)   
 	
-Draw a track on map(Viewed)
-2m 56s video
-Save
-•	
-Using geospatial data with shapely(Viewed)
-4m 44s video
-Save
-•	
-Challenge: Draw the running track(Viewed)
-17s video
-Save
-•	
-Solution: Draw the running track(Viewed)
-1m 2s video
-Save
-•	
-Chapter Quiz(In progress)
-2 questions
+* Draw a track on map
+* Using geospatial data with shapely	
+* Challenge: Draw the running track
+* Solution: Draw the running track
 
-1. NYC Taxi Data
-•	
+### 5 NYC Taxi Data
 Examine data(Viewed)
 1m 17s video
 Save
