@@ -60,6 +60,8 @@ main > Ch04 > 04_01 > map.py
 
 ## 5 NYC Taxi Data
 
+### CH5/01 NYC Taxi Data
+
 # Context
 ## 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
@@ -116,162 +118,47 @@ main > Ch04 > 04_01 > map.py
 * Solution: Draw the running track
 
 ### 5 NYC Taxi Data
-Examine data(Viewed)
-1m 17s video
-Save
-•	
-Load data from CSV files(Viewed)
-1m 31s video
-Save
-•	
-Working with categorical data(Viewed)
-2m 48s video
-Save
-•	
-Work with data: Hourly trip rides(Viewed)
-3m 51s video
-Save
-•	
-Work with data: Rides per hour(Viewed)
-3m 24s video
-Save
-•	
-Work with data: Weather data(Viewed)
-4m video
-Save
-•	
-Challenge: Graphing taxi data(Viewed)
-30s video
-Save
-•	
-Chapter Quiz(In progress)
-4 questions
+* Examine data	  
+* Load data from CSV files	  
+* Working with categorical data	  
+* Work with data: Hourly trip rides
+* Work with data: Rides per hour    	
+* Work with data: Weather data    
+* Challenge: Graphing taxi data     
 
-1. scikit-learn
-•	
-scikit-learn introduction(Viewed)
-1m 13s video
-Save
-•	
-Linear regression(Viewed)
-6m 52s video
-Save
-•	
-Understand train/test split(Viewed)
-2m 11s video
-Save
-•	
-Preprocess data(Viewed)
-3m 15s video
-Save
-•	
-Compose pipelines(Viewed)
-2m 23s video
-Save
-•	
-Save and load models(Viewed)
-1m 53s video
-Save
-•	
-Challenge: Handwritten digits(Viewed)
-1m 29s video
-Save
-•	
-Solution: Handwritten digits(Viewed)
-1m 9s video
-Save
-•	
-Chapter Quiz(In progress)
-4 questions
+### 6 scikit-learn
+* scikit-learn introduction	   
+* Linear regression   	
+* Understand train/test split  
+* Preprocess data	  
+* Compose pipelines	   
+* Save and load models	    
+* Challenge: Handwritten digits    
+* Solution: Handwritten digits	   
 
-1. Plotting
-•	
-Overview of matplotlib(Viewed)
-58s video
-Save
-•	
-Use styles(Viewed)
-1m 40s video
-Save
-•	
-Customize pandas output(Viewed)
-3m 16s video
-Save
-•	
-Plotting with pandas(Viewed)
-2m 18s video
-Save
-•	
-Use Matplotlib with pandas(Viewed)
-2m 15s video
-Save
-•	
-Tips and tricks(Viewed)
-1m 50s video
-Save
-•	
-Other plotting packages(Viewed)
-2m 43s video
-Save
-•	
-Challenge: Stock data bar charts(Viewed)
-28s video
-Save
-•	
-Solution: Stock data bar charts(Viewed)
-1m 20s video
-Save
-•	
-Chapter Quiz(In progress)
-7 questions
+### 7 Plotting
+* Overview of matplotlib	   
+* Use styles	  
+* Customize pandas output	  
+* Plotting with pandas	   
+* Use Matplotlib with pandas	   
+* Tips and tricks	   
+* Other plotting packages    	
+* Challenge: Stock data bar charts	   
+* Solution: Stock data bar charts    	
 
-1. Other Packages
-•	
-Other packages overview(Viewed)
-1m 7s video
-Save
-•	
-Go faster with Numba(Viewed)
-2m 41s video
-Save
-•	
-Understand deep learning(Viewed)
-4m 56s video
-Save
-•	
-Work with image processing(Viewed)
-2m 34s video
-Save
-•	
-Understand NLP: NLTK(Viewed)
-3m 2s video
-Save
-•	
-Working with bigger data(Viewed)
-5m 3s video
-Save
-•	
-Chapter Quiz(In progress)
-4 questions
 
-1. Development Process
-•	
-Development process overview(Viewed)
-45s video
-Save
-•	
-Understand source control(Viewed)
-1m 12s video
-Save
-•	
-Learn code review(Viewed)
-2m 11s video
-Save
-•	
-Testing overview(Viewed)
-2m 33s video
-Save
-•	
-Testing example(Viewed)
-2m 1s video
-Save
+### 8 Other Packages
+* Other packages overview   	
+* Go faster with Numba	   
+* Understand deep learning   	
+* Work with image processing   
+* Understand NLP: NLTK	   
+* Working with bigger data   	
+
+### 9 Development Process
+* Development process overview	   
+* Understand source control	   
+* Learn code review   
+* Testing overview   	
+* Testing example    
