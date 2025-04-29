@@ -2,7 +2,7 @@
 [Context_Python_Scientific_Stack](./../../Context_Python_Scientific_Stack.md)
 
 # Code 
-## 2 NumPy Basics
+# 2 NumPy Basics
 ### Ch02/02_01 NumPy Overview 
 main > Ch02 > 01_01 > code_cells.py
 
@@ -24,7 +24,9 @@ main > Ch02 > 02_06> operation.py
 ## CH02/07_Understand_ufuncs
 main > Ch02 > 02_07> ufuncs.py
 
-## 3 Pandas
+---
+
+# 3 Pandas
 ### CH3/02 Loading CSV files 
 main > Ch03 > 02_02 > load.py
 
@@ -48,9 +50,11 @@ main > Ch03 > challenge > mean_speed.py
 
 ### CH3/09 Solution: Taxi data mean speed
 main > Ch03 > solution > download_data.py    
-main > Ch03 > solution > mean_speed.py      
+main > Ch03 > solution > mean_speed.py  
 
-## 4 Folium and Geospatial Data
+---
+
+# 4 Folium and Geospatial Data
 
 ### CH4/01 Create an initial map
 main > Ch04 > 04_01 > map.py
@@ -67,7 +71,9 @@ main > Ch04 > challenge > height.py
 ### CH4/05 Solution: Draw the running track
 main > Ch04 > solution > height.py
 
-## 5 NYC Taxi Data
+---
+
+# 5 NYC Taxi Data
 
 ### CH5/01 NYC Examine data
 main > Ch05 > 05_01 > first_look.py     
@@ -100,9 +106,11 @@ main > Ch05 > challenge > download_date.py
 
 ### CH5/08 Solution: Graphing taxi data  
 main > Ch05 > solution > tip.py     
-main > Ch05 > solution > download_date.py      
+main > Ch05 > solution > download_date.py   
 
-## 6 scikit-learn
+---
+
+# 6 scikit-learn
 ### CH6/01 scikit-learn introduction
 main > Ch06 > 06_01 > first_look.py     
 main > Ch06 > 06_01 > download_data.py    
@@ -128,7 +136,9 @@ main > Ch06 > challenge > digits.py
 ### CH6/08 Solution: Handwritten digits	
 main > Ch06 > solution > digits.py
 
-### 7 Plotting
+---
+
+## 7 Plotting
 ### CH7/01 Overview of matplotlib
 
 ### CH7/02 Use styles	 
@@ -157,9 +167,11 @@ main > Ch07 > challenge > download_data.py
 
 ### CH7/09 Solution: Stock data bar charts   
 main > Ch07 > solution >  montly_close.py    
-main > Ch07 > solution >  download_data.py    
+main > Ch07 > solution >  download_data.py   
 
-### 8 Other Packages
+---
+
+# 8 Other Packages
 ### CH8/01  Other packages overview  
 
 ### CH8/02 Go faster with Numba	
@@ -177,7 +189,9 @@ main > Ch08 > 08_05 > images.py
 ### CH8/06 Working with bigger data
 main > Ch08 > 08_06 > images.py  
 
-### 9 Development Process
+---
+
+# 9 Development Process
 ### CH9/01 Development process overview	
 
 ### CH9/02 Understand source control
