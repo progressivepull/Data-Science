@@ -115,9 +115,11 @@ insert the following code into this python script that explains the code
 * Understand deep learning   	
 * Work with image processing   
 * Understand NLP: NLTK	   
-* Working with bigger data   	
+* Working with bigger data
 
-### 9 Development Process
+---
+
+# 9 Development Process
 * Development process overview	   
 * Understand source control	   
 * Learn code review   
