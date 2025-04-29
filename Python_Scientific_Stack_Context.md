@@ -5,15 +5,19 @@
 insert the following code into this python script that explains the code
 
 # Context
-## 0 Introduction
+# 0 Introduction
 * [The Python Scientific Stack](./Python_Scientific_Stack/introduction/the-python-scientific-stack.md)
 * [What you should know](./Python_Scientific_Stack/introduction/what-you-should-know.md)
 * [Using GitHub Codespaces with this course](./Python_Scientific_Stack/introduction/using-gitHub-codespaces-with-this-course.md)
 
-## 1 Visual Studio Code
+---
+
+# 1 Visual Studio Code
 *
 
-## 2 NumPy Basics
+---
+
+# 2 NumPy Basics
 * [CH02/01 NumPy Overview](./Python_Scientific_Stack/numpy-basics/CH02_01_NumPy_Overview.ipynb) 
 * [Ch02/02 NumPy Arrays](./Python_Scientific_Stack/numpy-basics/Ch02_02_NumPy_Arrays.ipynb) 
 * [Ch02/03 Slicing](./Python_Scientific_Stack/numpy-basics/Ch02_03_Slicing.ipynb) 
@@ -24,8 +28,9 @@ insert the following code into this python script that explains the code
 ### Practice
 * [Slice](./Python_Scientific_Stack/numpy-basics/practice/slice.ipynb) 
 
+---
 
-## 3 pandas
+# 3 pandas
 ### FILES
 * [track](./Python_Scientific_Stack/pandas/track.csv) 
   
@@ -45,9 +50,9 @@ insert the following code into this python script that explains the code
 * CH3/07 Challenge: Taxi data mean speed
 * [CH3/09 Solution: Taxi data mean speed](./Python_Scientific_Stack/pandas/CH3_09_Solution_Taxi_data_mean_speed.ipynb)
 
+---
 
-
-### 4 Folium and Geospatial Data
+# 4 Folium and Geospatial Data
 	
 * [CH4/01 Create an initial map](./Python_Scientific_Stack/folium-and-geospatial-data/CH04_01_Create_an_initial_map.ipynb)
    - [Folium](https://python-visualization.github.io/folium/latest/)
@@ -59,7 +64,9 @@ insert the following code into this python script that explains the code
 * CH4/04 Challenge: Draw the running track
 * CH4/05 Solution: Draw the running track
 
-### 5 NYC Taxi Data
+---
+
+# 5 NYC Taxi Data
 * Examine data	  
 * Load data from CSV files	  
 * Working with categorical data	  
@@ -67,9 +74,11 @@ insert the following code into this python script that explains the code
 * Work with data: Rides per hour    	
 * Work with data: Weather data    
 * Challenge: Graphing taxi data
-* Solution: Graphing taxi data     
+* Solution: Graphing taxi data
 
-### 6 scikit-learn
+---  
+
+# 6 scikit-learn
 * scikit-learn introduction	   
 * Linear regression
   - [7.1. Toy datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html) 
@@ -82,7 +91,9 @@ insert the following code into this python script that explains the code
 * Challenge: Handwritten digits    
 * Solution: Handwritten digits	   
 
-### 7 Plotting
+---
+
+# 7 Plotting
 * Overview of matplotlib
   - [In Learning - gscQnU7S](https://lnked.in/gscQnU7S)
   - [Chart visualization]([https://lnked.in/gscQnU7S](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
@@ -96,8 +107,9 @@ insert the following code into this python script that explains the code
 * Challenge: Stock data bar charts	   
 * Solution: Stock data bar charts    	
 
+---
 
-### 8 Other Packages
+# 8 Other Packages
 * Other packages overview   	
 * Go faster with Numba	   
 * Understand deep learning   	
