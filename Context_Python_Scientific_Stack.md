@@ -241,7 +241,8 @@ main > Ch08 > 08_06 > images.py
    - [Leaflet](https://leafletjs.com/)
    - [Open Street Map](https://www.openstreetmap.org/)   
 * [CH4/02 Draw a track on map](./Python_Scientific_Stack/folium-and-geospatial-data/CH4_02_Draw_a_track_on_map.ipynb) 
-* CH4/03 Using geospatial data with shapely	
+* CH4/03 Using geospatial data with shapely
+  - [Shapely]([https://shapely.readthedocs.io/en/stable/installation.html](https://shapely.readthedocs.io/en/stable/index.html)) 
 * CH4/04 Challenge: Draw the running track
 * CH4/05 Solution: Draw the running track
 
