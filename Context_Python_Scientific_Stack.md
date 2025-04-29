@@ -58,6 +58,11 @@ main > Ch03 > solution > mean_speed.py
 ### CH4/01 Create an initial map
 main > Ch04 > 04_01 > map.py
 
+### CH4/02 Draw a track on map
+### CH4/03 1Using geospatial data with shapely	
+### CH4/04 Challenge: Draw the running track
+### CH4/05 Solution: Draw the running track
+
 ## 5 NYC Taxi Data
 
 ### CH5/01 NYC Examine data
@@ -220,16 +225,20 @@ main > Ch08 > 08_06 > images.py
 * CH3/07 Challenge: Taxi data mean speed
 * [CH3/09 Solution: Taxi data mean speed](./Python_Scientific_Stack/pandas/CH3_09_Solution_Taxi_data_mean_speed.ipynb)
 
+
+
 ### 4 Folium and Geospatial Data
 	
-* [CH3/02 Loading CSV files](./Python_Scientific_Stack/folium-and-geospatial-data/CH04_01_Create_an_initial_map.ipynb) 
+* [CH4/01 Loading CSV files](./Python_Scientific_Stack/folium-and-geospatial-data/CH04_01_Create_an_initial_map.ipynb) 
   - [Folium](https://python-visualization.github.io/folium/latest/)
   - [Leaflet](https://leafletjs.com/)
   - [Open Street Map](https://www.openstreetmap.org/)   
-* [CH3/02_Draw_a_track_on_map](./Python_Scientific_Stack/folium-and-geospatial-data/CH3_02_Draw_a_track_on_map.ipynb)
-* Using geospatial data with shapely	
-* Challenge: Draw the running track
-* Solution: Draw the running track
+	
+* CH4/01 Create an initial map
+* CH4/02 Draw a track on map
+* CH4/03 1Using geospatial data with shapely	
+* CH4/04 Challenge: Draw the running track
+* CH4/05 Solution: Draw the running track
 
 ### 5 NYC Taxi Data
 * Examine data	  
