@@ -61,7 +61,7 @@ main > Ch04 > 04_01 > map.py
 ### CH4/02 Draw a track on map
 main > Ch04 > 04_02 > track.py
 
-### CH4/03 1Using geospatial data with shapely
+### CH4/03 Using geospatial data with shapely
 main > Ch04 > 04_03 > geo.py
 
 ### CH4/04 Challenge: Draw the running track
