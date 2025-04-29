@@ -59,9 +59,16 @@ main > Ch03 > solution > mean_speed.py
 main > Ch04 > 04_01 > map.py
 
 ### CH4/02 Draw a track on map
-### CH4/03 1Using geospatial data with shapely	
+main > Ch04 > 04_02 > track.py
+
+### CH4/03 1Using geospatial data with shapely
+main > Ch04 > 04_03 > geo.py
+
 ### CH4/04 Challenge: Draw the running track
+main > Ch04 > challenge > height.py
+
 ### CH4/05 Solution: Draw the running track
+main > Ch04 > solution > height.py
 
 ## 5 NYC Taxi Data
 
