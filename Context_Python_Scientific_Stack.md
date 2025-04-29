@@ -236,14 +236,12 @@ main > Ch08 > 08_06 > images.py
 
 ### 4 Folium and Geospatial Data
 	
-* [CH4/01 Loading CSV files](./Python_Scientific_Stack/folium-and-geospatial-data/CH04_01_Create_an_initial_map.ipynb) 
-  - [Folium](https://python-visualization.github.io/folium/latest/)
-  - [Leaflet](https://leafletjs.com/)
-  - [Open Street Map](https://www.openstreetmap.org/)   
-	
-* CH4/01 Create an initial map
-* CH4/02 Draw a track on map
-* CH4/03 1Using geospatial data with shapely	
+* [CH4/01 Create an initial map](./Python_Scientific_Stack/folium-and-geospatial-data/CH04_01_Create_an_initial_map.ipynb)
+   - [Folium](https://python-visualization.github.io/folium/latest/)
+   - [Leaflet](https://leafletjs.com/)
+   - [Open Street Map](https://www.openstreetmap.org/)   
+* [CH4/02 Draw a track on map](./Python_Scientific_Stack/folium-and-geospatial-data/CH4_02_Draw_a_track_on_map.ipynb) 
+* CH4/03 Using geospatial data with shapely	
 * CH4/04 Challenge: Draw the running track
 * CH4/05 Solution: Draw the running track
 
