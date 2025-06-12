@@ -23,6 +23,8 @@ Data Science is the field of study that extracts insights and knowledge from dat
 Open Jupyter from the command line.
 ```
 cd C:\Users\cocon\anaconda3\Scripts
+cd D:\Documents\anacond3\Scripts
+
 jupyter notebook --notebook-dir=D:/
 ```
 
