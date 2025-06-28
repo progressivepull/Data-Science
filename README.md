@@ -18,16 +18,6 @@ Data Science is the field of study that extracts insights and knowledge from dat
 
   Data Science is widely used in various industries, from healthcare to finance, marketing to sports analytics.
 
-# Jupyter Notebook   
-
-Open Jupyter from the command line.
-```
-cd C:\Users\cocon\anaconda3\Scripts
-cd D:\Documents\anacond3\Scripts
-
-jupyter notebook --notebook-dir=D:/
-```
-
 # References
 * [Python_Scientific_Stack- GitHub](https://github.com/LinkedInLearning/data-science-foundations-python-scientific-stack-3084641)    
 * [Losing your Loops Fast Numerical Computing with NumPy - YouTube](https://www.youtube.com/watch?v=EEUXKG97YRw)   
